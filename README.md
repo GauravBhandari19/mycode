@@ -13,15 +13,24 @@ https://hub.docker.com/
 
 2. Create a repository (if not already created), link to GITHUB account
 
-Create Repo
+Create Repo Github
 
-![Image of Yaktocat](https://github.com/GauravBhandari19/docker/blob/master/img/createRepository.png)
+![Image of Create repo GITHUB](https://github.com/GauravBhandari19/docker/blob/master/img/createRepository.png)
 
+Create Repo - Docker Hub
 
+![Image of Create repo Dockerhub](https://github.com/GauravBhandari19/docker/blob/master/img/createRepositoryDockerHub.png)
 
 3. Navigate to Builds tab
-
 4. Click "Configure Automated Builds"
+
+Create Automated build - Docker Hub
+
+![Image of Automated Build](https://github.com/GauravBhandari19/docker/blob/master/img/createAutomatedBuilds.png)
+
+Fill Automated Build Details - Docker Hub
+
+![Image of Fill Auto Build](https://github.com/GauravBhandari19/docker/blob/master/img/FillAutomatedBuildDetails.png)
 
 5. Select the following
     a. Source repository
