@@ -51,5 +51,5 @@ Fill Automated Build Details - Docker Hub
 
 
 
-# References/ Thanks To
+# Reference
 1. MD Markers markdown: https://guides.github.com/features/mastering-markdown/
