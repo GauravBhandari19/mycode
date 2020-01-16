@@ -32,4 +32,4 @@ https://hub.docker.com/
     f. Click "Save"
 
 6. Go to GIT HUB and commit file
-7. A build should be automatically triggered in Docker Hub
+7. A build should be automatically triggered in Docker Hub (when you Commit the Dockerfile, therefore I have added a version on Dockerfile)
