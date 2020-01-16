@@ -33,18 +33,18 @@ Fill Automated Build Details - Docker Hub
 ![Image of Fill Auto Build](https://github.com/GauravBhandari19/docker/blob/master/img/FillAutomatedBuildDetails.png)
 
 5. Select the following
-    a. Source repository
-    b. Build Location: This should already be preselected to Docker Hub Infrastructure
-    c. Set "AUTOTEST" to "Off"
-    d. Set "REPOSITORY LINKS" to "Enable for Base Image"
-    e. Click + on build rules
-        i. Select Source Type: Branch
-        ii. Select Source: master
-        iii. select Docker Tag: latest
-        iv: Provide Dockerfile location
-        v. Enable Autobuild
-        vi. Enable Build Caching
-    f. Click "Save"
+    1. Source repository
+    1. Build Location: This should already be preselected to Docker Hub Infrastructure
+    1. Set "AUTOTEST" to "Off"
+    1. Set "REPOSITORY LINKS" to "Enable for Base Image"
+    1. Click + on build rules
+        1. Select Source Type: Branch
+        1. Select Source: master
+        1. select Docker Tag: latest
+        1: Provide Dockerfile location
+        1. Enable Autobuild
+        1. Enable Build Caching
+    1. Click "Save"
 
 6. Go to GIT HUB and commit file
 7. A build should be automatically triggered in Docker Hub (when you Commit anything in your reppository)
