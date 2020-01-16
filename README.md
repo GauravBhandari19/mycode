@@ -13,6 +13,12 @@ https://hub.docker.com/
 
 2. Create a repository (if not already created), link to GITHUB account
 
+Create Repo
+
+![Image of Yaktocat](https://github.com/GauravBhandari19/docker/blob/master/img/createRepository.png)
+
+
+
 3. Navigate to Builds tab
 
 4. Click "Configure Automated Builds"
@@ -33,3 +39,8 @@ https://hub.docker.com/
 
 6. Go to GIT HUB and commit file
 7. A build should be automatically triggered in Docker Hub (when you Commit anything in your reppository)
+
+
+
+# References/ Thanks To
+1. MD Markers markdown: https://guides.github.com/features/mastering-markdown/
